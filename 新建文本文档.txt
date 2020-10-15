@@ -1,0 +1,1 @@
+computer optimization of a minimal biped model discovers walking and running
